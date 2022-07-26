@@ -1,9 +1,19 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Benites Matias
+======================================================================================================================================
+Frontend Developer Jr
+---------------------
+I've been learning and introducing myself in the programming world for a year. Honestly, I love it and it's something that I hope to invest many hours for a long time.
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Benites Matias======================================================================================================================================Frontend Developer Jr---------------------I've been learning and introducing myself in the programming world for a year. Honestly, I love it and it's something that I hope to invest many hours for a long time.* 🌍  I'm based in Corrientes, Argentina* ✉️  You can contact me at [matiasbenites665@gmail.com](mailto:matiasbenites665@gmail.com)* 🧠  I'm learning React.JS and also Angular.JS* 🤝  I'm open to collaborating on every project's team that's needed it. I'll ready for stand a hand.* ⚡  I love Mate and Chipacitos, but if you're not an Argentinian then you're not ready for this conversation.
+*   🌍  I'm based in Corrientes, Argentina
+*   ✉️  You can contact me at [matiasbenites665@gmail.com](mailto:matiasbenites665@gmail.com)
+*   🧠  I'm learning React.JS and also Angular.JS
+*   🤝  I'm open to collaborating on every project's team that's needed it. I'll ready for stand a hand.
+*   ⚡  I love Mate and Chipacitos, but if you're not an Argentinian then you're not ready for this conversation.
 
 <a href="https://www.github.com/Matiasbenites" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Matiasbenites?logo=github&style=for-the-badge&color=ffffff&labelColor=1e3a8a" /></a>
+
+![](https://komarev.com/ghpvc/?username=Matiasbenites&style=plastic&color=yellow)
 
 ### Skills
 
@@ -12,4 +22,4 @@ src="https://img.shields.io/github/followers/Matiasbenites?logo=github&style=for
 
 ### Badges
 
-<a href="https://github.com/Matiasbenites" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matiasbenites&langs_count=10&title_color=6366f1&text_color=facc15&icon_color=ffffff&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Matiasbenites" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matiasbenites&langs_count=10&title_color=6366f1&text_color=facc15&icon_color=facc15&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
