@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Benites Matias
 ======================================================================================================================================
-Frontend Developer Jr
+Frontend Developer Jr 
 ---------------------
 I've been learning and introducing myself in the programming world for a year. Honestly, I love it and it's something that I hope to invest many hours for a long time.
 
 *   🌍  I'm based in Corrientes, Argentina
 *   ✉️  You can contact me at [matiasbenites665@gmail.com](mailto:matiasbenites665@gmail.com)
-*   🧠  I'm learning ReactJS.
+*   🧠  I'm learning ReactJS and NodeJS.
 *   🤝  I'm open to collaborating on every project's team that's needed it. I'll ready for stand a hand.
 *   ⚡  I love Mate and Chipacitos, but if you're not an Argentinian then you're not ready for this conversation.
 
