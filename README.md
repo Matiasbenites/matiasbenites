@@ -10,8 +10,6 @@ I've been learning and introducing myself in the programming world for a year. H
 *   🤝  I'm open to collaborating on every project's team that's needed it. I'll ready for stand a hand.
 *   ⚡  I love Mate and Chipacitos, but if you're not an Argentinian then you're not ready for this conversation.
 
-<a href="https://www.github.com/Matiasbenites" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Matiasbenites?logo=github&style=for-the-badge&color=ffffff&labelColor=1e3a8a" /></a>
 
 ![](https://komarev.com/ghpvc/?username=Matiasbenites&style=plastic&color=yellow)
 
