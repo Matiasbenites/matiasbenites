@@ -19,10 +19,10 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-benites/)
 
 
-## 🔖 Languages and Tools:
+## 🔖 Languages:
 
 <div align="center">
-      <code><a href="https://www.w3.org/html/" title="HTML" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/></a></code> <code><a href="https://www.w3schools.com/css/"  title="CSS" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/></a></code>
+      <code><a href="https://www.w3.org/html/" title="HTML" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/></a></code> <code><a href="https://www.w3schools.com/css/"  title="CSS" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JAVASCRIPT" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></code> 
   <code><a href="https://www.java.com" title="JAVA" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></code>
    <code><a href="https://www.figma.com/" title="FIGMA" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></code>
@@ -32,7 +32,8 @@
 [![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![expressjs](https://img.shields.io/badge/ExpressJs-100000?style=for-the-badge&logo=expressdotjs&logoColor=black)](https://expressjs.com/)
+[![expressjs](https://img.shields.io/badge/ExpressJs-424242?style=for-the-badge&logo=express&logoColor=black)](https://expressjs.com/)
+[![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 
 ## 🗃️ Databases:
 [![mysql](https://img.shields.io/badge/MySQL-f97b3b?style=for-the-badge&logo=mysql&logoColor=black)](https://www.w3schools.com/mysql/)
