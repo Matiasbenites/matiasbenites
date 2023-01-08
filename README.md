@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7DB82&background=FF0C0C00&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Matias!)](https://git.io/typing-svg)
 ======================================================================================================================================
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E96009C0&center=true&vCenter=true&multiline=true&width=500&lines=Front-end+Developer+Junior" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFA116&center=true&vCenter=true&multiline=true&width=500&lines=Front-end+Developer+Junior" alt="Typing SVG" /></a>
 </p>
 
  I've been learning and introducing myself in the programming world for a year. Honestly, I love it and it's something that I hope to invest many hours for a long time.
@@ -18,8 +18,6 @@
 [![Gmail](https://img.shields.io/badge/gmail-F44336?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiasbenites665@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-benites/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matiasbenitess/)
-
-
 
 
 ## 🔖 Languages:
@@ -52,8 +50,17 @@
 ## ❤️IDE:
 [![visualstudiocode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
-### Badges
+## 🏆 Badges
 
-![snake gif](https://github.com/Matiasbenites/matiasbenites/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Matiasbenites" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Matiasbenites" height="150" alt="languages graph"  />
+</div>
 
-<a href="https://github.com/Matiasbenites" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matiasbenites&langs_count=10&title_color=6366f1&text_color=facc15&icon_color=facc15&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
