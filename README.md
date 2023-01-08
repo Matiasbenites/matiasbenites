@@ -17,7 +17,7 @@
 ## 📱 Connect With Me:
 [![Gmail](https://img.shields.io/badge/gmail-F44336?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiasbenites665@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-benites/)
-[![instagram](https://img.shields.io/badge/instagram-913667?style=for-the-badge&logo=instagram&logoColor=e6d1dc)](https://www.instagram.com/matiasbenitess/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matiasbenitess/)
 
 
 
@@ -41,10 +41,10 @@
 ## 🗃️ Databases:
 [![mysql](https://img.shields.io/badge/MySQL-f97b3b?style=for-the-badge&logo=mysql&logoColor=black)](https://www.w3schools.com/mysql/)
 [![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![mongodb](https://img.shields.io/badge/MongoDB-0e632a?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
+[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
 
 ## ⚙️ TOOLS:
-[![git](https://img.shields.io/badge/Git-ff8a37?style=for-the-badge&logo=git&logoColor=whi)](https://git-scm.com/)
+[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whi)](https://github.com/)
 [![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
 </div>
