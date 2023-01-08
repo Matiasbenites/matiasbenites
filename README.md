@@ -23,16 +23,9 @@
 
 <div align="center">
       <code><a href="https://www.w3.org/html/" title="HTML" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/></a></code> <code><a href="https://www.w3schools.com/css/"  title="CSS" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/></a></code>
-    <code><a href="https://getbootstrap.com" title="BOOTSTRAP" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JAVASCRIPT" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></code> 
   <code><a href="https://www.java.com" title="JAVA" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></code>
-  <code><a href="https://reactjs.org/" title="REACT" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></code>
-   <code><a href="https://nodejs.org" title="NODE" target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/></a></code>
    <code><a href="https://www.figma.com/" title="FIGMA" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></code>
-   <code><a href="" title="MONGODB" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/></a></code>
-   <code><a href="https://sequelize.org/docs/v6/getting-started/" title="SEQUELIZE" target="_blank"><img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40" height="40"/></a></code>
-  
-    
 </div>
   
 ## Frameworks:  
