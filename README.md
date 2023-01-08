@@ -59,6 +59,8 @@
 
 ###
 
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
