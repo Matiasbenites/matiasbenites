@@ -59,10 +59,4 @@
 
 ###
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
+  ![Snake animation](https://github.com/Matiasbenites/matiasbenites/blob/output/github-contribution-grid-snake.svg)
