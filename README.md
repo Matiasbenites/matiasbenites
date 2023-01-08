@@ -17,6 +17,9 @@
 ## 📱 Connect With Me:
 [![Gmail](https://img.shields.io/badge/gmail-F44336?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiasbenites665@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-benites/)
+[![instagram](https://img.shields.io/badge/instagram-913667?style=for-the-badge&logo=instagram&logoColor=e6d1dc)](https://www.instagram.com/matiasbenitess/)
+
+
 
 
 ## 🔖 Languages:
