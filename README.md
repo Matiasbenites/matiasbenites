@@ -1,11 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Benites Matias
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7DB82&background=FF0C0C00&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Matias!)](https://git.io/typing-svg)
 ======================================================================================================================================
-Frontend Developer Jr 
----------------------
-I've been learning and introducing myself in the programming world for a year. Honestly, I love it and it's something that I hope to invest many hours for a long time.
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E96009C0&center=true&vCenter=true&multiline=true&width=500&lines=Front-end+Developer+Junior" alt="Typing SVG" /></a>
+</p>
+
+ I've been learning and introducing myself in the programming world for a year. Honestly, I love it and it's something that I hope to invest many hours for a long time.
 
 *   🌍  I'm based in Corrientes, Argentina
-*   ✉️  You can contact me at [matiasbenites665@gmail.com](mailto:matiasbenites665@gmail.com)
 *   🧠  I'm learning ReactJS and NodeJS.
 *   🤝  I'm open to collaborating on every project's team that's needed it. I'll ready for stand a hand.
 *   ⚡  I love Mate and Chipacitos, but if you're not an Argentinian then you're not ready for this conversation.
@@ -13,7 +14,12 @@ I've been learning and introducing myself in the programming world for a year. H
 
 ![](https://komarev.com/ghpvc/?username=Matiasbenites&style=plastic&color=yellow)
 
-## 🛠 Languages and Tools
+## 📱 Connect With Me:
+[![Gmail](https://img.shields.io/badge/gmail-F44336?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiasbenites665@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-benites/)
+
+
+## 🔖 Languages and Tools:
 
 <div align="center">
       <code><a href="https://www.w3.org/html/" title="HTML" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/></a></code> <code><a href="https://www.w3schools.com/css/"  title="CSS" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/></a></code>
@@ -23,18 +29,31 @@ I've been learning and introducing myself in the programming world for a year. H
   <code><a href="https://reactjs.org/" title="REACT" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></code>
    <code><a href="https://nodejs.org" title="NODE" target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/></a></code>
    <code><a href="https://www.figma.com/" title="FIGMA" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></code>
-   <code><a href="https://www.mongodb.com/docs/" title="MONGODB" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/></a></code>
+   <code><a href="" title="MONGODB" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/></a></code>
    <code><a href="https://sequelize.org/docs/v6/getting-started/" title="SEQUELIZE" target="_blank"><img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40" height="40"/></a></code>
-   <code><a href="https://postman.com" title="POSTMAN" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></code>
-    <code><a href="https://www.mysql.com/" title="MYSQL" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>
-    <code><a href="https://www.postgresql.org/docs/" title="POSTGRESQL" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/></a></code>
-    <code><a href="https://git-scm.com/" title="GIT" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
+  
+    
 </div>
   
- 
-### Socials
+## Frameworks:  
+[![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![expressjs](https://img.shields.io/badge/ExpressJs-100000?style=for-the-badge&logo=expressdotjs&logoColor=black)](https://expressjs.com/)
 
-<p align="left"><a href="https://www.github.com/Matiasbenites" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/matias-benites" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+## 🗃️ Databases:
+[![mysql](https://img.shields.io/badge/MySQL-f97b3b?style=for-the-badge&logo=mysql&logoColor=black)](https://www.w3schools.com/mysql/)
+[![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![mongodb](https://img.shields.io/badge/MongoDB-0e632a?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
+
+## ⚙️ TOOLS:
+[![git](https://img.shields.io/badge/Git-ff8a37?style=for-the-badge&logo=git&logoColor=whi)](https://git-scm.com/)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whi)](https://github.com/)
+[![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
+</div>
+
+## ❤️IDE:
+[![visualstudiocode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
 ### Badges
 
