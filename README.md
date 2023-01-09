@@ -36,15 +36,17 @@
 [![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 
 ## 🗃️ Databases:
-[![mysql](https://img.shields.io/badge/MySQL-f97b3b?style=for-the-badge&logo=mysql&logoColor=black)](https://www.w3schools.com/mysql/)
-[![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.w3schools.com/mysql/)
 [![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
+[![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![sqlite](https://img.shields.io/badge/SQLite-018bff?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+
 
 ## ⚙️ TOOLS:
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whi)](https://github.com/)
 [![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
-[![figma](https://img.shields.io/badge/Figma-4ec0f5?style=for-the-badge&logo=Figma&logoColor=red)](https://www.figma.com/)
+[![figma](https://img.shields.io/badge/Figma-EA4C89?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/)
 </div>
 
 ## ❤️IDE:
