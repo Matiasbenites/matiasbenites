@@ -8,7 +8,7 @@
 
 *   🌍  I'm based in Corrientes, Argentina
 *   🧠  I'm learning ReactJS and NodeJS.
-*   🤝  I'm open to collaborating on every project's team that's needed it. I'll ready for stand a hand.
+*   🤝  I'm open to collaborate on any front-end project. In any case, I will try to help you in any way.
 *   ⚡  I love Mate and Chipacitos, but if you're not an Argentinian then you're not ready for this conversation.
 
 
