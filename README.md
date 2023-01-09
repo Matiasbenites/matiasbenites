@@ -4,6 +4,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFA116&center=true&vCenter=true&multiline=true&width=500&lines=Front-end+Developer+Jr" alt="Typing SVG" /></a>
 </p>
 
+
+<p align="center">
+  <img src="https://i.pinimg.com/564x/2a/30/75/2a3075f173b0d254d6d8456ce0763c4b.jpg" width="250" title="momoimg">
+</p>
+
  I've been learning and introducing myself in the programming world for a year. Honestly, I love it and it's something that I hope to invest many hours for a long time.
 
 *   🌍  I'm based in Corrientes, Argentina
