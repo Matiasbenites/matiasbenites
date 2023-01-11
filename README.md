@@ -4,7 +4,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFA116&center=true&vCenter=true&multiline=true&width=500&lines=Front-end+Developer+Jr" alt="Typing SVG" /></a>
 </p>
 
-
 <p align="center">
   <img src="https://i.pinimg.com/564x/2a/30/75/2a3075f173b0d254d6d8456ce0763c4b.jpg" width="250" title="momoimg">
 </p>
@@ -20,13 +19,13 @@
 ![](https://komarev.com/ghpvc/?username=Matiasbenites&style=plastic&color=yellow)
 
 
-## 📱 Connect With Me:
+## 📱 $\color{#eddaab}{Connect\ with\ me}$
 [![Gmail](https://img.shields.io/badge/gmail-F44336?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiasbenites665@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-benites/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matiasbenitess/)
 
 
-## 🔖 Languages:
+## 🔖 $\color{#eddaab}{Languages}$
 
 <div align="center">
       <code><a href="https://www.w3.org/html/" title="HTML" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/></a></code> <code><a href="https://www.w3schools.com/css/"  title="CSS" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/></a></code>
@@ -34,7 +33,7 @@
   <code><a href="https://www.java.com" title="JAVA" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></code>
 </div>
   
-## 🧪 Frameworks:  
+## 🧪 $\color{#eddaab}{Frameworks}$ 
 [![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
@@ -42,29 +41,29 @@
 [![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![material-ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 
-## 🗃️ Databases:
+## 🗃️ $\color{#eddaab}{Databases}$ 
 [![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.w3schools.com/mysql/)
 [![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
 [![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![sqlite](https://img.shields.io/badge/SQLite-018bff?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 
 
-## ⚙️ TOOLS:
+## ⚙️ $\color{#eddaab}{Tools}$
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whi)](https://github.com/)
 [![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
 [![figma](https://img.shields.io/badge/Figma-EA4C89?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/)
 </div>
 
-## ❤️IDE:
+## ❤️ $\color{#eddaab}{IDE}$
 [![visualstudiocode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
-## 🏆 Badges
+## 🔥 $\color{#eddaab}{My\ Stats}$
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Matiasbenites" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Matiasbenites" height="150" alt="languages graph"  />
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Matiasbenites&show_icons=true&theme=great-gatsby)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false&username=Matiasbenites)
+
 
 ###
 
