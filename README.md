@@ -60,9 +60,9 @@
 
 ## 🔥 $\color{#eddaab}{My\ Stats}$
 
-![tuts Github stats](https://github-readme-stats.vercel.app/api?username=Matiasbenites&show_icons=true&theme=great-gatsby)
+![tuts's Github stats](https://github-readme-stats.vercel.app/api?username=Matiasbenites&show_icons=true&theme=great-gatsby)
 
-![tuts Github stats](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false&username=Matiasbenites)
+![tuts's Github stats](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false&username=Matiasbenites)
 
 
 ###
