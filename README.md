@@ -3,11 +3,11 @@
 
 
 
-<p align="center"><a href="https://imgbox.com/vVZeDuaQ" target="_blank"><img src="https://thumbs2.imgbox.com/40/fc/vVZeDuaQ_t.png" width="90%" alt="image host"/></a></p>
+<p align="center"><a href="https://imgbox.com/vVZeDuaQ" target="_blank"><img src="https://thumbs2.imgbox.com/40/fc/vVZeDuaQ_t.png" width="90%" alt="banner" title="FS-banner"/></a></p>
 
 ##
 <p align="center">
-    <img  src="https://i.pinimg.com/564x/2a/30/75/2a3075f173b0d254d6d8456ce0763c4b.jpg" width="250" title="momoimg">
+    <img  src="https://i.pinimg.com/564x/2a/30/75/2a3075f173b0d254d6d8456ce0763c4b.jpg" width="250" title="momo" alt="meme">
   </br>
     <ficaption>XD</figcaption>
 </p>
