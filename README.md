@@ -1,13 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1500&color=F7DB82&background=FF0C0C00&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Matias!)](https://git.io/typing-svg)
 ======================================================================================================================================
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFA116&center=true&vCenter=true&multiline=true&width=500&lines=Front-end+Developer+Jr" alt="Typing SVG" /></a>
-</p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/564x/2a/30/75/2a3075f173b0d254d6d8456ce0763c4b.jpg" width="250" title="momoimg">
-</p>
 
+
+<p align="center"><a  href="https://imgbox.com/vVZeDuaQ" target="_blank"><img src="https://thumbs2.imgbox.com/40/fc/vVZeDuaQ_t.png" alt="image host"/></a></p>
+
+##
+<p align="center">
+    <img  src="https://i.pinimg.com/564x/2a/30/75/2a3075f173b0d254d6d8456ce0763c4b.jpg" width="250" title="momoimg">
+  </br>
+    <ficaption>XD</figcaption>
+</p>
+  
+
+##
  I've been learning and introducing myself in the programming world for a year. Honestly, I love it and it's something that I hope to invest many hours for a long time.
 
 *   🌍  I'm based in Corrientes, Argentina
