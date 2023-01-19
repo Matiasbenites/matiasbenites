@@ -3,7 +3,7 @@
 
 
 
-<p align="center"><a  href="https://imgbox.com/vVZeDuaQ" target="_blank"><img src="https://thumbs2.imgbox.com/40/fc/vVZeDuaQ_t.png" alt="image host"/></a></p>
+<p align="center"><a href="https://imgbox.com/vVZeDuaQ" target="_blank"><img src="https://thumbs2.imgbox.com/40/fc/vVZeDuaQ_t.png" width="90%" alt="image host"/></a></p>
 
 ##
 <p align="center">
