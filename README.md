@@ -25,13 +25,13 @@
 ![](https://komarev.com/ghpvc/?username=Matiasbenites&style=plastic&color=yellow)
 
 
-## 📱 $\color{#eddaab}{Connect\ with\ me}$
+## 📱 $\color{#F7DB82}{Connect\ with\ me}$
 [![Gmail](https://img.shields.io/badge/gmail-F44336?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiasbenites665@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-benites/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matiasbenitess/)
 
 
-## 🔖 $\color{#eddaab}{Languages}$
+## 🔖 $\color{#F7DB82}{Languages}$
 
 <div align="center">
       <code><a href="https://www.w3.org/html/" title="HTML" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/></a></code> <code><a href="https://www.w3schools.com/css/"  title="CSS" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/></a></code>
@@ -39,7 +39,7 @@
   <code><a href="https://www.java.com" title="JAVA" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></code>
 </div>
   
-## 🧪 $\color{#eddaab}{Frameworks}$ 
+## 🧪 $\color{#F7DB82}{Frameworks}$ 
 [![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
@@ -48,24 +48,24 @@
 [![material-ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 [![nodejs](https://img.shields.io/badge/Node.js-393?style=for-the-badge&logo=nodedotjs&logoColor=fff)](https://nodejs.org/es/)
 
-## 🗃️ $\color{#eddaab}{Databases}$ 
+## 🗃️ $\color{#F7DB82}{Databases}$ 
 [![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.w3schools.com/mysql/)
 [![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
 [![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![sqlite](https://img.shields.io/badge/SQLite-018bff?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+[![sequelize](https://img.shields.io/badge/Sequelize-018bff?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/docs/v6/getting-started/)
 
 
-## ⚙️ $\color{#eddaab}{Tools}$
+## ⚙️ $\color{#F7DB82}{Tools}$
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whi)](https://github.com/)
 [![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
 [![figma](https://img.shields.io/badge/Figma-EA4C89?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/)
 </div>
 
-## ❤️ $\color{#eddaab}{IDE}$
+## ❤️ $\color{#F7DB82}{IDE}$
 [![visualstudiocode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
-## 🔥 $\color{#eddaab}{My\ Stats}$
+## 🔥 $\color{#F7DB82}{My\ Stats}$
 
 ![tuts's Github stats](https://github-readme-stats.vercel.app/api?username=Matiasbenites&show_icons=true&theme=great-gatsby)
 
