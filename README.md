@@ -30,7 +30,6 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-benites/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matiasbenitess/)
 
-
 ## 🔖 $\color{#F7DB82}{Languages}$
 
 <div align="center">
@@ -71,6 +70,7 @@
 ## 🎮 $\color{#F7DB82}{Games}$🔝
 [![riot-games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](https://www.op.gg/summoners/las/muszcka)
 [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198293463157)
+![discord](https://dcbadge.vercel.app/api/shield/367848153765904386)
 
 ## 🔥 $\color{#F7DB82}{My\ Stats}$
 
