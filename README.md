@@ -1,29 +1,27 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1500&color=F7DB82&background=FF0C0C00&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Matias!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1700&color=FFE15D&background=FF0C0C00&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Matias!)](https://git.io/typing-svg)
 ======================================================================================================================================
-
-
-
-<p align="center"><a href="https://imgbox.com/vVZeDuaQ" target="_blank"><img src="https://thumbs2.imgbox.com/40/fc/vVZeDuaQ_t.png" width="90%" alt="banner" title="FS-banner"/></a></p>
-
-##
 <p align="center">
-    <img  src="https://i.pinimg.com/564x/2a/30/75/2a3075f173b0d254d6d8456ce0763c4b.jpg" width="250" title="momo" alt="meme">
-  </br>
-    <ficaption>XD</figcaption>
-</p>
-  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1500&color=F49D1A&background=FBC25200&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+Jr" alt="Fullstack" /></a>
 
+![](https://komarev.com/ghpvc/?username=Matiasbenites&style=plastic&color=yellow)    
 ##
+<div>
+    <div>
  <i>I've been learning and introducing myself in the programming world for a year. Honestly, I love it and it's something that I hope to invest many hours for a long time.
 
 *   🌍  I'm based in Corrientes, Argentina
 *   🧠  Currently learning ReactJS and NodeJS.
 *   🤝  I'm open to collaborate on any front-end project. In any case, I will try to help you in any way.
 *   ⚡  //"Don't document the problem; fix it up" </i>
-
-
-![](https://komarev.com/ghpvc/?username=Matiasbenites&style=plastic&color=yellow)
-
+    </div>
+    <div>
+        <p align="center">
+    <img  src="https://i.pinimg.com/564x/2a/30/75/2a3075f173b0d254d6d8456ce0763c4b.jpg" width="250" title="momo" alt="meme">
+  </br>
+    <ficaption>XD</figcaption>
+</p>
+    </div>
+</div>
 
 ## 📱 $\color{#F7DB82}{Connect\ with\ me}$
 [![Gmail](https://img.shields.io/badge/gmail-F44336?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiasbenites665@gmail.com)
