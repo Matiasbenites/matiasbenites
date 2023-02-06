@@ -77,6 +77,10 @@
 
 ![tuts's Github stats](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false&username=Matiasbenites)
 
+###
+##  🏆 $\color{#F7DB82}{My\ trophies}$
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
 
