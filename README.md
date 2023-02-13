@@ -62,6 +62,7 @@
 [![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
 [![figma](https://img.shields.io/badge/Figma-EA4C89?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/)
 [![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/es)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 ## ❤️ $\color{#F7DB82}{IDE}$
 [![vscode](https://img.shields.io/badge/VSCODE-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
