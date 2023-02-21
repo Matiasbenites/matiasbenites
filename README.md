@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1700&color=FFE15D&background=FF0C0C00&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Matias!)](https://git.io/typing-svg)
 ======================================================================================================================================
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1500&color=F49D1A&background=FBC25200&center=true&vCenter=true&width=435&lines=Front.+end+Developer+JR" alt="Fullstack" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1500&color=F49D1A&background=FBC25200&center=true&vCenter=true&width=435&lines=Front-+end+Developer+JR" alt="Fullstack" /></a>
 
 ![](https://komarev.com/ghpvc/?username=Matiasbenites&style=plastic&color=yellow)    
 ##
