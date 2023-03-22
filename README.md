@@ -34,7 +34,6 @@
       <code><a href="https://www.w3.org/html/" title="HTML" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/></a></code> <code><a href="https://www.w3schools.com/css/"  title="CSS" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JAVASCRIPT" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></code> 
     <code><a href="https://www.typescriptlang.org/docs/" title="TYPESCRIPT" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a></code>
-  <code><a href="https://www.java.com" title="JAVA" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></code>
 </div>
   
 ## 🧪 Frameworks
