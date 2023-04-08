@@ -10,7 +10,7 @@
  <i>I've been learning and introducing myself in the programming world for 2 years. Honestly, I love it and it's something that I hope to invest many hours for a long time. Actually, I'm building my path as Fullstack Dev.
 
 *   🌍  I'm based in Corrientes, Argentina
-*   🧠  Currently learning ReactJS and NodeJS.
+*   🧠  Currently learning Angular and TypeScript.
 *   🤝  I'm open to collaborate on any front-end project. In any case, I will try to help you in any way.
 *   ⚡  //"Don't document the problem; fix it up" </i>
     </div>
