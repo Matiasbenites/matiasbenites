@@ -47,6 +47,7 @@
 ## 🗃️ Databases 
 [![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.w3schools.com/mysql/)
 [![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/latam/)
 
 ## ⚙️ ORM
 [![sequelize](https://img.shields.io/badge/Sequelize-018bff?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/docs/v6/getting-started/)
