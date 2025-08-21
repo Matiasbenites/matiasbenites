@@ -7,10 +7,10 @@
 ##
 <div>
     <div>
- <i>I've been learning and introducing myself in the programming world for 2 years. Honestly, I love it and it's something that I hope to invest many hours for a long time. Actually, I'm building my path as Fullstack Dev.
+ <i>I've been learning and introducing myself in the programming world for 4 years. Honestly, I love it and it's something that I hope to invest many hours for a long time. Actually, I'm building my path as Fullstack Dev.
 
 *   🌍  I'm based in Corrientes, Argentina
-*   🧠  Currently learning Angular and TypeScript.
+*   🧠  Currently learning VB.NET.
 *   🤝  I'm open to collaborate on any front-end project. In any case, I will try to help you in any way.
 *   ⚡  //"Don't document the problem; fix it up" </i>
     </div>
@@ -60,7 +60,8 @@
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 ## ❤️ IDE
-[![vscode](https://img.shields.io/badge/VSCODE-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/es/)
 
 ## 🎮 Games🔝
 [![riot-games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](https://www.op.gg/summoners/las/muszcka)
