@@ -65,7 +65,7 @@
 ## 🎮 Games🔝
 [![riot-games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](https://www.op.gg/summoners/las/muszcka)
 [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198293463157)
-![discord](https://dcbadge.vercel.app/api/shield/367848153765904386)
+![discord](https://dcbadge.limes.pink/api/shield/367848153765904386)
 
 ## 🔥 My Stats
 
